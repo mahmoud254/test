@@ -1,0 +1,78 @@
+In this video, we’re gonna take a look at how to pronounce this man’s name, and we’re gonna talk about his last theorem and Homer Simpson’s proof by counterexample that it was, in fact, wrong. 
+But before we do all that, let’s think about the Pythagorean theorem or Pythagoras’s theorem, as it’s often known.
+In a right-angled triangle, the square of the longer side is equal to the sum of the squares of the other sides.
+So in this diagram, if 𝑎 is the length of this side, 𝑏 is the length of this side, and 𝑐 is the length of this side, then 𝑎 squared plus 𝑏 squared equals 𝑐 squared.
+Now there’re lots of proofs that this is true, even an American president, James Garfield, wrote a nice proof back in the 1870s. 
+Now we’re gonna concentrate on some special cases of the Pythagorean theorem in which 𝑎, 𝑏, and 𝑐 all turn out to be whole numbers or integers, and we call them Pythagorean triples. 
+For example, if side 𝑎 was three units, side 𝑏 was four units, and side 𝑐 was five units, that would give us three squared plus four squared equals five squared.
+And three squared is nine, four squared is 16, five squared is 25, and nine plus 16 is indeed equal to 25.
+So three, four, and five are all integers, and they make a Pythagorean triple.
+In fact, there are an infinite number of Pythagorean triples, and there’s even a nice little method to generate them. 
+Start with a pair of integers, 𝑚 and 𝑛, where 𝑚 is bigger than 𝑛 and 𝑛 is bigger than zero.
+Then let 𝑎 equal 𝑚 squared minus 𝑛 squared, 𝑏 equal two times 𝑚 times 𝑛, and 𝑐 equals 𝑚 squared plus 𝑛 squared.
+Then 𝑎, 𝑏, and 𝑐 will be a Pythagorean triple.
+So for example, if we said 𝑚 was 10 and 𝑛 was three, then 𝑎 would be 10 squared minus three squared, so that’s a 100 minus nine which is 91, 𝑏 would be two times 10 times three which is 60, and 𝑐 would be 10 squared plus three squared which is 109.
+And if we just check that they work, 𝑎 squared plus 𝑏 squared equals 𝑐 squared, we get 91 squared plus 60 squared equals 109 squared.
+And yes, that does work. 
+But there’s nothing new here.
+We’ve known about the Pythagorean theorem and Pythagorean triples for a very long time.
+In fact, in the 1630s, Pierre de Fermat was reading about them in his copy of Arithmetica by Diophantus of Alexandria, and that was written in the third century A.D.
+Ahaa, so there we are, we’ve covered the first of our objectives.
+Lots of people call him “Fermat” but his real name is Pierre de Fermat. 
+Now, this got Fermat wondering, whether he could find similar integer solutions to equations like 𝑎 cubed plus 𝑏 cubed equals 𝑐 cubed, or 𝑎 to the four plus 𝑏 to the four equals 𝑐 to the four.
+But after lots of trying, he could only find trivial solutions where one or more of 𝑎, 𝑏, or 𝑐 was zero.
+For example: 𝑎 is zero, 𝑏 is five, 𝑐 is five.
+Then Fermat wrote this conjecture in the margin of his copy of Arithmetica, although he wrote it in Latin: “It is impossible to separate a cube into two cubes, or a fourth power into two fourth powers, or in general, any power higher than the second, into two like powers.” Or as we might say, no integer solutions exist for 𝑎 to the power of 𝑛 plus 𝑏 to the power of 𝑛 equals 𝑐 to the power of 𝑛, where 𝑛 is greater than two. 
+Then he added to the page: “I’ve discovered a truly marvelous proof of this which this margin is too narrow to contain.” And this intrigued mathematicians for centuries.
+Many have tried and failed to find this proof.
+But it wasn’t until October 1994 that an actual proof was submitted by Andrew Wiles, 358 years after the conjecture was made.
+Now whilst Andrew Wiles’ proof is certainly marvelous, it isn’t the one that Fermat had in mind.
+It refers to several strands of mathematics that weren’t known about in Fermat’s day.
+So maybe there’s still a challenge there for you, find the original proof.
+So to sum things up, it has actually been proved that 𝑎 to the power of 𝑛 plus 𝑏 to the power of 𝑛 equals 𝑐 to the power of 𝑛 has no nontrivial integer solutions for 𝑛 is greater than two. 
+Then in the 1998 episode of The Simpsons, called The Wizard of Evergreen Terrace, Homer writes this on his board: 3987 to the power of 12 plus 4365 to the power of 12 equals 4472 to the power of 12.
+Try it on your calculator.
+Type in 3987 to the power of 12 plus 4365 to the power of 12, and then take the 12th root of that answer and, unless you’ve got a very sophisticated calculator, it probably will give the answer 4472.
+It works!
+Homer has disproved Fermat’s last theorem by finding a counterexample. 
+Now the difference between proving and disproving something can be quite enormous.
+To prove something is true, you need to prove it for every single possible case.
+But to disprove it, you just need to come up with one counterexample.
+So in this one counterexample, it seems that Homer Simpson has disproved Fermat’s last theorem and overturned Andrew Wiles’ proof; or has he?
+Well, the issue here is that most calculators only hold a certain number of significant digits, usually 10. 
+So for example, 3987 to the power of 12 would be saved as 1.613447461 times 10 to the power of 43.
+Now that’s 16 34 [134] 474 61 with 34 zeros after it.
+The calculator has lost track of loads of digits and stored an answer that isn’t entirely precise.
+Now the actual answer is this, and you can see that there’s quite a difference in terms of these digits.
+And the accurate result for the 12th root of 3987 to the power of 12 plus 4365 to the power of 12 is this.
+But because our calculator only holds 10 significant figures, it thought the answer was this, which is 4472. 
+Look, if we do the calculation accurately, we get this for the left-hand side and this for the right-hand side.
+And the difference is over one decillion.
+Now your calculator didn’t spot it because it was only concentrating on these 10 significant figures up here, and they’re all exactly the same.
+Now one thing that I particularly like about this example, is that even if you do a check on the last digits, they do agree. 
+So for example, if you spotted that the significant figure limitations of your calculator were stopping you from getting an accurate answer, you could at least check the value of the last digit.
+And if they weren’t the same on the left-hand side and the right-hand side, then you’d know that it wasn’t true.
+Let’s have a look at what the last digit of this calculation is going to be.
+Well, the last digit’s gonna come from multiplying seven by itself 12 times.
+And seven times seven is 49, so the last digit of that is nine.
+And nine times seven is 63, and the last digit of that is three.
+Three times seven is 21, and the last digit of that is one.
+One times seven is seven; obviously, the last digit of that is seven.
+Then we’re back to seven times seven is 49, and the last digit of that is nine.
+Nine times seven 63, the last digit’s three.
+Three times seven has a last digit of one.
+One times seven has a last digit of seven.
+Seven times seven has a last digit of nine.
+Nine times seven has a last digit of three, and three times seven has a last digit of one. 
+And for the next number, we’re gonna get the last digit by multiplying 12 fives together.
+Now obviously, five times five is 25 which has a last digit of five, and we’re gonna go through using the same pattern.
+This is going to end in a five.
+So the last digit on the left-hand side is gonna be one plus five which is six.
+Then if we follow that same procedure through for the right-hand side, we also find that it has a last digit of six.
+Now if they’d been different digits, we’d have immediately known that this example didn’t work. 
+In fact, in another episode of The Simpsons, they showed this example which again, works on your calculator, but you could immediately spot a problem because that first number to the power of 12 is gonna end in an even digit, the second number to the power of 12 is going to be odd, but the last digit of the number on the right-hand side must be even.
+Now when you add an even number to an odd number, the result is odd.
+So the left-hand side had an odd last digit, but the right-hand side had an even last digit.
+That clearly wasn’t going to work.
+So to sum it all up, we’ve talked about the Pythagorean theorem, how to pronounce Fermat, and we’ve talked about Fermat’s last theorem.
+And although his example was very clever indeed, Homer Simpson did not disprove Fermat’s last theorem. 

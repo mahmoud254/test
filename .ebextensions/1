@@ -1,0 +1,3 @@
+option_settings:
+  aws:elasticbeanstalk:container:python:
+    WSGIPath: nagwa_workflow_project/wsgi.py

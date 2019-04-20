@@ -1,0 +1,2 @@
+python -m aeneas.tools.execute_task audio.m4a  845152492456.txt "task_language=en|os_task_file_format=vtt|is_text_type=plain|task_adjust_boundary_nonspeech_min=0.200|PPV_TASK_ADJUST_BOUNDARY_NONSPEECH_REMOVE|is_audio_file_detect_head_max=2.5" 845152492456.vtt
+ 
